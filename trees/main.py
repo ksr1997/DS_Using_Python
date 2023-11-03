@@ -153,3 +153,5 @@ if __name__ == '__main__':
     root = deleteNode(root, 50)
     print("Modified BST tree after deleting both child Node:")
     inorder(root)
+
+#https://www.geeksforgeeks.org/deletion-in-binary-search-tree/?ref=lbp
