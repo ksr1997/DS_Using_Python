@@ -1,0 +1,7 @@
+Main Concept:
+use two pointers:
+left and right and solve the problem
+
+#skipped 
+42. Trapping Rain Water
+Check once you are a pro!!!
