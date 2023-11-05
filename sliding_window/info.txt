@@ -1,0 +1,4 @@
+#yet to check
+567. Permutation in String
+76. Minimum Window Substring
+239. Sliding Window Maximum
